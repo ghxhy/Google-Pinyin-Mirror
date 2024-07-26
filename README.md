@@ -1,4 +1,2 @@
 # Google-Pinyin-Mirror
-A mirror for the Google Pinyin website. https://googlepinyin.com
-
-Check our project in [GitHub](https://github.com/WordlessEcho/Google-Pinyin-Mirror).
+谷歌拼音安装包(windows和android)备份，安装包见release文件
